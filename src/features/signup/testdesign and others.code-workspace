@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../../.."
+	},
+	{
+		"path": "../../../../Fast React Pizza"
+	},
+	{
+		"path": "../../../../redux_intro"
+	}
+],
+  "settings": {}
+}
